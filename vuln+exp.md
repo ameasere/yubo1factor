@@ -33,7 +33,7 @@ You now have full access to the phone, but don't get too excited. SMS is one of 
 or knowledge of what we are doing. 
 
 Go to Yubo > Sign up > enter random details >  enter the victim phone number - it will send a code. Here is where we come in. Go into your meterpreter
-and type dump_sms (see 3.png in repository).
+and type dump_sms (see P.O.C.png in repository).
 
 I had to use prior screenshots from Kali seeing as the reverse_tcp was not connecting from my phone to computer. I will update these as soon
 as it works again (it might actually be the new metasploit update).
