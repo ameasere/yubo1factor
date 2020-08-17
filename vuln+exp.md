@@ -39,3 +39,5 @@ I had to use prior screenshots from Kali seeing as the reverse_tcp was not conne
 as it works again (it might actually be the new metasploit update).
 
 I have also attached the screenshot of the dump_sms with the Yubo code.
+
+When you dump the sms, the file will be saved in your home directory. Simple open the file and search for a Yubo code (or more juicy things if you are trying to spy on their messages). [cat [dump] | grep "Yubo"].
